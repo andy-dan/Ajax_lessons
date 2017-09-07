@@ -1,0 +1,29 @@
+*{box-sizing: border-box;
+  /*border: 1px solid white;*/
+    text-align: center;}
+
+body {margin: 0;
+     background-color: #42bcf4;
+     color: white;
+     font-family: Open Sans;}
+main {margin: 0 auto;
+        max-width: 800px;}
+
+header, .box{
+    padding: 20px 0;}
+
+button, a {background-color: #42bcf4;
+        color: white;
+        padding: 5px;
+        border-radius: 3px;
+        display: block;
+        height: 30px;
+        width: 250px;
+        margin: 20px auto;
+        border: 1px solid white;
+}
+a {text-decoration: none;
+        }
+li {list-style: none;
+    }
+ul {padding: 0;}
